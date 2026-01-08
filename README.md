@@ -1,6 +1,6 @@
 # Bright Data ISP Proxies
 
-[![Promo](https://github.com/luminati-io/ISP-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types/isp-proxies?promo=github15)
+[![Promo](https://github.com/bright-kr/ISP-Proxies/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.co.kr/proxy-types/isp-proxies?promo=github15)
 
 ## Overview
 ISP로부터 직접 소싱된 IP로 안전하고 안정적이며 고속의 데이터 수집을 위해 Bright Data의 광범위한 [ISP proxy network](https://brightdata.co.kr/proxy-types/isp-proxies)를 활용하십시오.
