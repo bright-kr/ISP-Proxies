@@ -158,7 +158,7 @@ ISP proxies는 서버에 할당된 static residential IPs로, 일반적인 resid
 ISP proxies는 ISP로부터 직접 제공되는 IPs를 사용하여, 데이터센터 연결 속도를 유지하면서도 레ジデンシャル 관점에서 콘텐츠에 빠르고 안정적으로 액세스할 수 있게 합니다.
 
 ### What are the benefits of using ISP Proxies?
-ISP proxies는 [residential IPs](https://brightdata.co.kr/proxy-types/residential-proxies)의 안정성과 익명성에 더해 데이터센터 IPs의 속도를 제공하므로, Webスクレイピング, 광고 검증, SEO 모니터링과 같은 작업에 적합합니다.
+ISP proxies는 [residential IPs](https://brightdata.co.kr/proxy-types/residential-proxies)의 안정성과 익명성에 더해 데이터센터 IPs의 속도를 제공하므로, Web스크레이핑, 광고 검증, SEO 모니터링과 같은 작업에 적합합니다.
 
 ### How are ISP Proxies used by businesses?
 ISP proxies는 제한된 콘텐츠에 대한 액세스, 광고 검증, 경쟁사 사이트 모니터링, 품질 보증 테스트와 같은 작업에 널리 사용됩니다.
